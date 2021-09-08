@@ -1,0 +1,26 @@
+{
+  "name": "@beaubus/svg-patterns-for-tailwindcss",
+  "version": "0.1.0",
+  "description": "A plugin that provides 140+ svg patterns you can use as background image with utility classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaubus/svg-patterns-for-tailwindcss.git"
+  },
+  "keywords": [
+    "tailwind",
+    "teilwindcss",
+    "plugin",
+    "svg",
+    "patterns"
+  ],
+  "author": "Andrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beaubus/svg-patterns-for-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/beaubus/svg-patterns-for-tailwindcss#readme"
+}
