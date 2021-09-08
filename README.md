@@ -1,6 +1,6 @@
 # BEAUBUS Patterns plugin for TailwindCSS
 
-A plugin that provides 140+ svg patterns you can use as background image with utility classes.
+A plugin that provides [140+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes.
 
 ![](demo.gif)
 
