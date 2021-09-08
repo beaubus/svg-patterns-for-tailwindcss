@@ -4,25 +4,27 @@ A plugin that provides 140+ svg patterns you can use as background image with ut
 
 ## Installation
 
-NPM
+Install the plugin from npm
 ```bash
 npm i @beaubus/svg-patterns-for-tailwindcss
 ```
 
-## Usage
-```js
+Then add the plugin to your `tailwind.config.js` file:
+``` js
 // tailwind.config.js
-plugins: [
+module.exports = {
+  // ...
+  plugins: [
     require('@beaubus/svg-patterns-for-tailwindcss'),
-],
+    // ...
+  ],
+}
 ```
 
+## Usage
+Now you can use the `bbp-` classes with pattern name from [BEAUBUS Patterns](https://patterns.beaubus.com) to add `background-image` to html elements:
 ```html
-<div class="bbp-moment"></div>
+<body class="bbp-blue-wallpaper">
+    <div class="bbp-moment"></div>
+</body>
 ```
-
-Use package name (lowercase) from [BEAUBUS Patterns](https://patterns.beaubus.com) after dash.
-Examples: bbp-moment, bbp-rolling, bbp-oak, bbp-blue-wallpaper 
-
-
-
