@@ -2,6 +2,8 @@
 
 A plugin that provides 140+ svg patterns you can use as background image with utility classes.
 
+![](demo.gif)
+
 ## Installation
 
 Install the plugin from npm
