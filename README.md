@@ -4,6 +4,10 @@
     <img src="https://img.shields.io/npm/dt/@beaubus/svg-patterns-for-tailwindcss?logo=npm" alt="npm downnloads count">
 </a>
 
+<img alt="GitHub" src="https://img.shields.io/github/license/beaubus/svg-patterns-for-tailwindcss">
+
+
+
 A plugin that provides [140+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes.
 
 ![](demo.gif)
