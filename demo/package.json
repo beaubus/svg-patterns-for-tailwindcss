@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@beaubus/svg-patterns-for-tailwindcss": "^0.1.11",
+    "tailwindcss": "^2.2.15"
+  }
+}
