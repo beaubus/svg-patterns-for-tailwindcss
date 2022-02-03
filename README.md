@@ -1,4 +1,4 @@
-# BEAUBUS Patterns plugin for TailwindCSS
+# BEAUBUS Patterns plugin for Tailwind CSS
 
 <a href="https://www.npmjs.com/package/@beaubus/svg-patterns-for-tailwindcss">
     <img src="https://img.shields.io/npm/dt/@beaubus/svg-patterns-for-tailwindcss?logo=npm" alt="npm downnloads count">
