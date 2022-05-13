@@ -15,7 +15,7 @@
 <br>
 <br>
 
-A plugin that provides [150+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes.
+A plugin that provides [160+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes.
 
 ![](demo.gif)
 
