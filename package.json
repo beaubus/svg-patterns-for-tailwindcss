@@ -1,6 +1,6 @@
 {
   "name": "@beaubus/svg-patterns-for-tailwindcss",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "A plugin that provides 160+ svg patterns you can use as background image with utility classes.",
   "main": "index.js",
   "scripts": {
