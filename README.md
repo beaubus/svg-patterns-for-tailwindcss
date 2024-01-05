@@ -19,6 +19,8 @@ A plugin that provides [210+ free svg patterns](https://patterns.beaubus.com) yo
 
 ![](demo.gif)
 
+<br>
+
 ## Installation
 
 Install the plugin from npm
