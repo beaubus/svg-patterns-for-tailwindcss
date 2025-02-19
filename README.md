@@ -15,7 +15,7 @@
 <br>
 <br>
 
-A plugin that provides [210+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes. Compatible with Tailwind CSS v2.
+A plugin that provides [210+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes. Compatible with Tailwind CSS v2 and v3.
 
 ![](demo.gif)
 
