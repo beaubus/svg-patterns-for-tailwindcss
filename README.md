@@ -15,13 +15,27 @@
 <br>
 <br>
 
-A plugin that provides [210+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes. Compatible with Tailwind CSS v2 and v3.
+A plugin that provides [210+ free svg patterns](https://patterns.beaubus.com) you can use as background image with utility classes. Compatible with Tailwind CSS v2, v3 and v4.
 
 ![](demo.gif)
 
 <br>
 
-## Installation
+## Installation v4
+
+Install the plugin from npm
+```bash
+npm i @beaubus/svg-patterns-for-tailwindcss
+```
+
+Then add the plugin to your css file:
+```css
+@import "tailwindcss";
+@plugin "@beaubus/svg-patterns-for-tailwindcss";
+```
+
+
+## Installation v2 and v3
 
 Install the plugin from npm
 ```bash

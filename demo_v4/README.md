@@ -1,0 +1,1 @@
+npx @tailwindcss/cli -i src.css -o index.css
