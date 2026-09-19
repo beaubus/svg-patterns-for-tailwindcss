@@ -107,7 +107,7 @@
 }
 
 /*
-! tailwindcss v3.4.17 | MIT License | https://tailwindcss.com
+! tailwindcss v3.4.19 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -590,6 +590,6 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.bbp-sequoia {
-  background-image: url('data:image/svg+xml;utf8,<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="50" height="50" fill="%23D6E5EC"/><rect y="16" width="50" height="12" fill="%233C4727"/><rect y="6" width="50" height="9" fill="%23AFB382"/><rect y="29" width="50" height="15" fill="%231C2B20"/><rect x="10" width="30" height="50" fill="%23F2E5BE"/><rect x="16" width="24" height="50" fill="%23B38F6E"/><rect x="23" width="17" height="50" fill="%234C382D"/><rect x="34" width="6" height="50" fill="%232D1E04"/></svg>');
+.bbp-midnight {
+  background-image: url('data:image/svg+xml;utf8,<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="50" height="50" fill="%231F2644"/><circle cx="24.5" cy="25.5" r="15" stroke="%2311172F" stroke-width="3"/><circle cx="25.5" cy="23.5" r="15" stroke="%23CFBB80" stroke-width="3"/></svg>');
 }

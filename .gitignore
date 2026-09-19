@@ -1,5 +1,6 @@
 .DS_Store/
 .idea/
+.npmrc
 node_modules/
 demo/node_modules/
 package-lock.json
